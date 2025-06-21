@@ -1,0 +1,35 @@
+# Build artifacts
+*.o
+test_svd
+test_8point
+test_homography
+test_pca
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Backup files
+*.bak
+*.orig
+
+# Core dumps
+core
